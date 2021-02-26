@@ -1,3 +1,5 @@
 Đây là mouse.txt
 
+Trạng thái: Alive
+
 in ra mouse
