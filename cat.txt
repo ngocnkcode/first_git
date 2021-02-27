@@ -1,10 +1,7 @@
 đây là file cat.txt
 
-<<<<<<< HEAD
 Mèo ăn chuột
 
 Mèo ăn cá
 
-=======
->>>>>>> parent of 4811dc1 (add funcion for Cat and Mouse)
 ỉn ra cat
